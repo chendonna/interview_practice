@@ -11,7 +11,7 @@ def twosum(nums, target):
     type target: int
     rtype: List[int]
     """
-    differences = {} #could prolly also just use a regular list?
+    differences = {}
     indices = []
     for i in range(len(nums)):
         n = nums[i]

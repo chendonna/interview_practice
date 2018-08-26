@@ -1,5 +1,5 @@
 """
-    find index of staring len_needle
+    find index of starting needle
 
     ex. haystack = "hello" needle = "ll"
         output: 2
